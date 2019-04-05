@@ -9,6 +9,10 @@ The application uses [express.js](https://expressjs.com/), [passport.js](http://
 
 Run `npm install` or `yarn install` to install all application dependencies.
 
+## Client
+
+Angular 7 client you can find [here](https://github.com/DmytroSyz/taskmananger-client)
+
 ## Database
 
 This application uses [PostgreSQL](https://www.postgresql.org/) to storage data.
